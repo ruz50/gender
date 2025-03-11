@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.gender{
+  color: #936228;
+  font-family: "Emblema One", system-ui;
+  font-size: 50px;
+  background-color: transparent;
+  border: 6px solid #936228;
+  border-radius: 30px;
+  padding: 5px 40px;
+  display: flex;
+  justify-self: center;
+  margin-top: 20%;
+
+}
+
+.kapuyt{
+  color: rgb(80, 160, 212);
+  margin-right: 10px;
+}
+
+.rozvi{
+  color: pink;
+  margin-left: 10px;
+}
+
+.gender:hover{
+  background-color: #936228;
+}
+
+@media screen and (max-width:700px){
+  .gender{
+    font-size: 30px;
+  }
+  
+}

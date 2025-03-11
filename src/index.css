@@ -1,0 +1,10 @@
+body{
+  background-image: url('./assets/208374329_10873821.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  background: #000;
+}
