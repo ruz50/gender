@@ -1,8 +1,11 @@
 body{
   background-image: url('./assets/208374329_10873821.png');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: 100%;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 canvas {
